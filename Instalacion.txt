@@ -1,0 +1,23 @@
+#Url para descargar el gestor de DB
+https://sqlitebrowser.org/dl/
+
+
+# comando para instalar la función del ambiente virtual
+pip install virtualenv
+
+# comando para crear un ambiente virtual
+virtualenv env
+
+# comando para activar el ambiente virual
+source env/bin/activate
+
+
+
+
+# comando para desactivar el ambiente virual
+deactivate
+
+
+
+# comando para instalar los requerimientos	
+pip install -r requirements.txt  
